@@ -15,9 +15,9 @@ This project demonstrates how to implement server-side validation in a Next.js a
 
 Ensure you have the following installed:
 
-- Node.js (v14 or higher)
-- Next.js (v12 or higher)
-- Zod (v3 or higher)
+- Node.js (v18 or higher)
+- Next.js (v14 or higher)
+- Zod (v3.22 or higher)
 
 ### Install dependencies:
 
